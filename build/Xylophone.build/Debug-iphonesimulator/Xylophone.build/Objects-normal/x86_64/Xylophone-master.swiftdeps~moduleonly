@@ -1,0 +1,6 @@
+version: "Apple Swift version 4.2 (swiftlang-1000.11.37.1 clang-1000.11.45.1)"
+options: "73102f99efb95c87b6f31f9958e8e1f2"
+build_time: [1539942462, 91946000]
+inputs:
+  "/Users/sriramprasad/Dev/Xylophone/Xylophone/ViewController.swift": [1539942461, 0]
+  "/Users/sriramprasad/Dev/Xylophone/Xylophone/AppDelegate.swift": [1539940134, 0]
